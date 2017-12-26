@@ -1,13 +1,6 @@
+#include <stdio.h>
 
-// hello world
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-// v1.0.0.3
+int main() {
+	printf("hello world\n") ;
+	return 0 ;
+}
