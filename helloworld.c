@@ -4,16 +4,3 @@ int main() {
 	printf("hello world\n") ;
 	return 0 ;
 }
-
-
-// from this place add new content
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
