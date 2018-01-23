@@ -1,2 +1,2 @@
 hello world
-中文haha
+中文
