@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 //add new line
 //v1.0.0.2
 ////add new line again
@@ -12,3 +13,4 @@
 //hahhahah new line again
 
 // test
+
