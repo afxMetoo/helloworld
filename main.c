@@ -13,7 +13,10 @@
 //hahhahah new line again
 
 // Commit 1
+<<<<<<< HEAD
 
 // commit 2
 
 // commit 3
+=======
+>>>>>>> parent of 707e4d6... commit  2
