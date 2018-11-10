@@ -11,9 +11,6 @@
 //
 //
 //hahhahah new line again
-<<<<<<< HEAD
 
 // test
 // v1.0.0.5
-=======
->>>>>>> parent of d145802... test
