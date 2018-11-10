@@ -14,8 +14,11 @@
 
 // test
 // v1.0.0.5
+<<<<<<< HEAD
 
 
 // add abc
 // add def
 
+=======
+>>>>>>> parent of 366797d... commit 1
