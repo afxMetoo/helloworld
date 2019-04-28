@@ -21,12 +21,8 @@
 // 12345
 // message
 
-<<<<<<< HEAD
 //fefaf
 // message
-
 // abncd
-=======
 // abncd
 123568
->>>>>>> c3ae2a79ada0bb13dbce095a2dd4c0a2463a1e6e
