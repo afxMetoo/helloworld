@@ -1,5 +1,4 @@
 #include <iostream>
-<<<<<<< HEAD
 //add new line
 //v1.0.0.2
 ////add new line again
@@ -14,11 +13,4 @@
 
 // test
 // v1.0.0.5
-<<<<<<< HEAD
-
-
-// add abc
-// add def
-
-=======
->>>>>>> parent of 366797d... commit 1
+//----
