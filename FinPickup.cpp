@@ -5,6 +5,8 @@
 #include "Fin3DAlgorithm.h"
 extern FinGlobals FG;
 
+// 开头写下的中文注释?
+
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // 构造函数
 CollideItem::CollideItem(FinPanel * pPanel, const Fin3DRay & line, const Fin3DPoint & point, char axis):
