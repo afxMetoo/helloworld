@@ -14,6 +14,11 @@ struct tagHeight
 	double			height ;
 }
 
+struct tagAge
+{
+	int				age ;
+}
+
 void foo();
 
 void GetAnimaAge() ;
@@ -21,3 +26,8 @@ void GetAnimaAge() ;
 void GetAnimaLaught() ;
 
 void Foo_Eat();
+
+void foo_age() ;
+
+void alex() ;
+
