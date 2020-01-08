@@ -9,4 +9,14 @@ struct tagName
 	std::string		name ;
 }
 
+struct tagAge
+{
+	int				age ;
+}
+
 void foo();
+
+void foo_age() ;
+
+void alex() ;
+
