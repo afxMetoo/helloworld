@@ -12,5 +12,8 @@ void bar() {
 // 主函数入口
 int main() {
 	std::cout << "hello world" << std::endl;	
+	foo();
+	bar();
+
 	return 0;
 }
