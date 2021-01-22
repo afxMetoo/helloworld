@@ -15,5 +15,7 @@ int main() {
 	foo();
 	bar();
 
+	std::cout << "hello world namespace std\n";
+
 	return 0;
 }
