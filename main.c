@@ -16,6 +16,7 @@ int main() {
 	bar();
 
 	std::cout << "hello world namespace std\n";
+	std::cout << "second push\n";
 
 	return 0;
 }
